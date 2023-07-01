@@ -1,0 +1,3052 @@
+[
+    {
+        "Title": "It's Only the Himalayas",
+        "Price": "45.17",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+        "Price": "49.43",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "Price": "48.87",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "Price": "36.94",
+        "Status": "In stock",
+        "Quantity": "8",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "Under the Tuscan Sun",
+        "Price": "37.33",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "A Summer In Europe",
+        "Price": "44.34",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "The Great Railway Bazaar",
+        "Price": "30.54",
+        "Status": "In stock",
+        "Quantity": "6",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "A Year in Provence (Provence #1)",
+        "Price": "56.88",
+        "Status": "In stock",
+        "Quantity": "6",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "Price": "23.21",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "Neither Here nor There: Travels in Europe",
+        "Price": "38.95",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "1,000 Places to See Before You Die",
+        "Price": "26.08",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Travel"
+    },
+    {
+        "Title": "Sharp Objects",
+        "Price": "47.82",
+        "Status": "In stock",
+        "Quantity": "20",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "In a Dark, Dark Wood",
+        "Price": "19.63",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "The Past Never Ends",
+        "Price": "56.50",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "A Murder in Time",
+        "Price": "16.64",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "Price": "44.10",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "The Last Mile (Amos Decker #2)",
+        "Price": "54.21",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "That Darkness (Gardiner and Renner #1)",
+        "Price": "13.92",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "Price": "10.69",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "A Time of Torment (Charlie Parker #14)",
+        "Price": "48.35",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "Price": "16.73",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Poisonous (Max Revere Novels #3)",
+        "Price": "26.80",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "Price": "54.36",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Most Wanted",
+        "Price": "35.28",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Hide Away (Eve Duncan #20)",
+        "Price": "11.84",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Boar Island (Anna Pigeon #19)",
+        "Price": "59.48",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "The Widow",
+        "Price": "27.26",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Playing with Fire",
+        "Price": "13.71",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "Price": "25.37",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "Price": "52.30",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "Price": "20.89",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Mystery"
+    },
+    {
+        "Title": "Tipping the Velvet",
+        "Price": "53.74",
+        "Status": "In stock",
+        "Quantity": "20",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "Price": "29.69",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "A Flight of Arrows (The Pathfinders #2)",
+        "Price": "55.53",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The House by the Lake",
+        "Price": "36.95",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Mrs. Houdini",
+        "Price": "30.25",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Marriage of Opposites",
+        "Price": "28.08",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Glory over Everything: Beyond The Kitchen House",
+        "Price": "45.84",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Love, Lies and Spies",
+        "Price": "20.55",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "A Paris Apartment",
+        "Price": "39.01",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Lilac Girls",
+        "Price": "17.28",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Constant Princess (The Tudor Court #1)",
+        "Price": "16.62",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Invention of Wings",
+        "Price": "37.34",
+        "Status": "In stock",
+        "Quantity": "6",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "World Without End (The Pillars of the Earth #2)",
+        "Price": "32.97",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Passion of Dolssa",
+        "Price": "28.32",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Girl With a Pearl Earring",
+        "Price": "26.77",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Voyager (Outlander #3)",
+        "Price": "21.07",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Red Tent",
+        "Price": "35.66",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Last Painting of Sara de Vos",
+        "Price": "55.55",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "The Guernsey Literary and Potato Peel Pie Society",
+        "Price": "49.53",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Girl in the Blue Coat",
+        "Price": "46.83",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Historical Fiction"
+    },
+    {
+        "Title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "Price": "52.29",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "Price": "16.28",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "This One Summer",
+        "Price": "19.49",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "The Nameless City (The Nameless City #1)",
+        "Price": "38.16",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "Price": "51.04",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "Price": "50.40",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "Price": "13.61",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Pop Gun War, Volume 1: Gift",
+        "Price": "18.97",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Patience",
+        "Price": "10.16",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "Price": "15.44",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "Price": "48.41",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "Price": "46.91",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "Price": "45.61",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "Price": "19.92",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "Price": "29.17",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "I am a Hero Omnibus Volume 1",
+        "Price": "54.63",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Giant Days, Vol. 2 (Giant Days #5-8)",
+        "Price": "22.11",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Danganronpa Volume 1",
+        "Price": "51.99",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Codename Baboushka, Volume 1: The Conclave of Death",
+        "Price": "36.72",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "Camp Midnight",
+        "Price": "17.08",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sequential Art"
+    },
+    {
+        "Title": "The Secret Garden",
+        "Price": "15.08",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Metamorphosis",
+        "Price": "28.58",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Pilgrim's Progress",
+        "Price": "50.26",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "Price": "14.82",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Little Women (Little Women #1)",
+        "Price": "28.07",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Gone with the Wind",
+        "Price": "32.49",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Candide",
+        "Price": "58.63",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Animal Farm",
+        "Price": "57.22",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Wuthering Heights",
+        "Price": "17.73",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Picture of Dorian Gray",
+        "Price": "29.70",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "Price": "26.78",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Beowulf",
+        "Price": "38.35",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "And Then There Were None",
+        "Price": "35.01",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Story of Hong Gildong",
+        "Price": "43.19",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "The Little Prince",
+        "Price": "45.42",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Sense and Sensibility",
+        "Price": "37.46",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Of Mice and Men",
+        "Price": "47.11",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Emma",
+        "Price": "32.93",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "Price": "55.53",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Classics"
+    },
+    {
+        "Title": "Sophie's World",
+        "Price": "15.94",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "The Death of Humanity: and the Case for Life",
+        "Price": "58.11",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "The Stranger",
+        "Price": "17.44",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Proofs of God: Classical Arguments from Tertullian to Barth",
+        "Price": "54.21",
+        "Status": "In stock",
+        "Quantity": "8",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Kierkegaard: A Christian Missionary to Christians",
+        "Price": "47.13",
+        "Status": "In stock",
+        "Quantity": "8",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "At The Existentialist Caf\u00e9: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+        "Price": "29.93",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Critique of Pure Reason",
+        "Price": "20.75",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Run, Spot, Run: The Ethics of Keeping Pets",
+        "Price": "20.02",
+        "Status": "In stock",
+        "Quantity": "2",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "The Nicomachean Ethics",
+        "Price": "36.34",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Meditations",
+        "Price": "25.89",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Beyond Good and Evil",
+        "Price": "43.38",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Philosophy"
+    },
+    {
+        "Title": "Chase Me (Paris Nights #2)",
+        "Price": "25.27",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Black Dust",
+        "Price": "34.53",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Her Backup Boyfriend (The Sorensen Family #1)",
+        "Price": "33.97",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "First and First (Five Boroughs #3)",
+        "Price": "15.97",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Fifty Shades Darker (Fifty Shades #2)",
+        "Price": "21.96",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "The Wedding Dress",
+        "Price": "24.12",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Suddenly in Love (Lake Haven #1)",
+        "Price": "55.99",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Something More Than This",
+        "Price": "16.24",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Doing It Over (Most Likely To #1)",
+        "Price": "35.61",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "The Wedding Pact (The O'Malleys #2)",
+        "Price": "32.61",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Hold Your Breath (Search and Rescue #1)",
+        "Price": "28.82",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Dirty (Dive Bar #1)",
+        "Price": "40.83",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Take Me Home Tonight (Rock Star Romance #3)",
+        "Price": "53.98",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Off the Hook (Fishing for Trouble #1)",
+        "Price": "47.67",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "A Gentleman's Position (Society of Gentlemen #3)",
+        "Price": "14.75",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Sit, Stay, Love",
+        "Price": "20.90",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "A Girl's Guide to Moving On (New Beginnings #2)",
+        "Price": "31.30",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "The Perfect Play (Play by Play #1)",
+        "Price": "59.99",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Dark Lover (Black Dagger Brotherhood #1)",
+        "Price": "12.87",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "Changing the Game (Play by Play #2)",
+        "Price": "13.38",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Romance"
+    },
+    {
+        "Title": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+        "Price": "57.36",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Will You Won't You Want Me?",
+        "Price": "13.86",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Keep Me Posted",
+        "Price": "20.46",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Grey (Fifty Shades #4)",
+        "Price": "48.49",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Meternity",
+        "Price": "43.58",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Some Women",
+        "Price": "13.73",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Shopaholic Ties the Knot (Shopaholic #3)",
+        "Price": "48.39",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Can You Keep a Secret?",
+        "Price": "21.94",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Twenties Girl",
+        "Price": "42.80",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "The Undomestic Goddess",
+        "Price": "45.75",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "The Nanny Diaries (Nanny #1)",
+        "Price": "52.53",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+        "Price": "44.29",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Something Borrowed (Darcy & Rachel #1)",
+        "Price": "48.96",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Something Blue (Darcy & Rachel #2)",
+        "Price": "54.62",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "I've Got Your Number",
+        "Price": "19.69",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "The Edge of Reason (Bridget Jones #2)",
+        "Price": "19.18",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Bridget Jones's Diary (Bridget Jones #1)",
+        "Price": "29.82",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Womens Fiction"
+    },
+    {
+        "Title": "Soumission",
+        "Price": "50.10",
+        "Status": "In stock",
+        "Quantity": "20",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Private Paris (Private #10)",
+        "Price": "47.61",
+        "Status": "In stock",
+        "Quantity": "17",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "We Love You, Charlie Freeman",
+        "Price": "50.27",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Thirst",
+        "Price": "17.27",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The Murder That Never Was (Forensic Instincts #5)",
+        "Price": "54.11",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Tuesday Nights in 1980",
+        "Price": "21.04",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The Vacationers",
+        "Price": "42.15",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The Regional Office Is Under Attack!",
+        "Price": "51.36",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "Price": "53.53",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The Time Keeper",
+        "Price": "27.88",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The Testament of Mary",
+        "Price": "52.67",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "The First Hostage (J.B. Collins #2)",
+        "Price": "25.85",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Take Me with You",
+        "Price": "45.21",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Still Life with Bread Crumbs",
+        "Price": "26.41",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Shtum",
+        "Price": "55.84",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "My Name Is Lucy Barton",
+        "Price": "41.56",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "My Mrs. Brown",
+        "Price": "24.48",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "Price": "28.90",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "I Am Pilgrim (Pilgrim #1)",
+        "Price": "10.60",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Eligible (The Austen Project #4)",
+        "Price": "27.09",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fiction"
+    },
+    {
+        "Title": "Birdsong: A Story in Pictures",
+        "Price": "54.64",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Bear and the Piano",
+        "Price": "36.89",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Secret of Dreadwillow Carse",
+        "Price": "56.13",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d",
+        "Price": "58.08",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Little Red",
+        "Price": "13.47",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Walt Disney's Alice in Wonderland",
+        "Price": "12.96",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Twenty Yawns",
+        "Price": "22.08",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Rain Fish",
+        "Price": "23.57",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Once Was a Time",
+        "Price": "18.28",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Luis Paints the World",
+        "Price": "53.95",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Nap-a-Roo",
+        "Price": "25.08",
+        "Status": "In stock",
+        "Quantity": "9",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Whale",
+        "Price": "35.96",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "Price": "52.87",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Raymie Nightingale",
+        "Price": "34.41",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Playing from the Heart",
+        "Price": "32.38",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "Price": "22.54",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Wild Robot",
+        "Price": "56.07",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Thing About Jellyfish",
+        "Price": "48.77",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Lonely Ones",
+        "Price": "43.59",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "The Day the Crayons Came Home (Crayons)",
+        "Price": "26.33",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Childrens"
+    },
+    {
+        "Title": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+        "Price": "37.97",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "You Are What You Love: The Spiritual Power of Habit",
+        "Price": "21.87",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "God: The Most Unpleasant Character in All Fiction",
+        "Price": "30.03",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "The Book of Mormon",
+        "Price": "24.57",
+        "Status": "In stock",
+        "Quantity": "9",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+        "Price": "27.62",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "The Bhagavad Gita",
+        "Price": "57.49",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "Price": "28.42",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Religion"
+    },
+    {
+        "Title": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+        "Price": "40.30",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "Price": "31.05",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Reasons to Stay Alive",
+        "Price": "26.41",
+        "Status": "In stock",
+        "Quantity": "17",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "Price": "23.11",
+        "Status": "In stock",
+        "Quantity": "17",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "Price": "44.18",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "Price": "31.12",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "Price": "16.77",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "Price": "37.13",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "Price": "56.06",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "Price": "41.83",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "Price": "19.83",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "In the Country We Love: My Family Divided",
+        "Price": "22.00",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+        "Price": "54.35",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+        "Price": "29.14",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Algorithms to Live By: The Computer Science of Human Decisions",
+        "Price": "30.81",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "Price": "43.54",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Omnivore's Dilemma: A Natural History of Four Meals",
+        "Price": "38.21",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Genius of Birds",
+        "Price": "17.24",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "The Artist's Way: A Spiritual Path to Higher Creativity",
+        "Price": "38.49",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "So You've Been Publicly Shamed",
+        "Price": "12.23",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Nonfiction"
+    },
+    {
+        "Title": "Rip it Up and Start Again",
+        "Price": "35.02",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "Price": "57.25",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "How Music Works",
+        "Price": "37.32",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Love Is a Mix Tape (Music #1)",
+        "Price": "18.03",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Please Kill Me: The Uncensored Oral History of Punk",
+        "Price": "31.19",
+        "Status": "In stock",
+        "Quantity": "8",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "Price": "45.05",
+        "Status": "In stock",
+        "Quantity": "8",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Chronicles, Vol. 1",
+        "Price": "52.60",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "This Is Your Brain on Music: The Science of a Human Obsession",
+        "Price": "38.40",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "Price": "12.36",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "No One Here Gets Out Alive",
+        "Price": "20.02",
+        "Status": "In stock",
+        "Quantity": "4",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Life",
+        "Price": "31.58",
+        "Status": "In stock",
+        "Quantity": "2",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "Price": "55.66",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "Forever Rockers (The Rocker #12)",
+        "Price": "28.80",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Music"
+    },
+    {
+        "Title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "Price": "17.93",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "Price": "22.60",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "Price": "13.99",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "Price": "22.50",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Aladdin and His Wonderful Lamp",
+        "Price": "53.13",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Penny Maybe",
+        "Price": "33.29",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Maude (1883-1993):She Grew Up with the country",
+        "Price": "18.02",
+        "Status": "In stock",
+        "Quantity": "18",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "Price": "20.59",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Soul Reader",
+        "Price": "39.58",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Bossypants",
+        "Price": "49.46",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "A World of Flavor: Your Gluten Free Passport",
+        "Price": "42.95",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+        "Price": "56.76",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Tracing Numbers on a Train",
+        "Price": "41.60",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Thirteen Reasons Why",
+        "Price": "52.72",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Secret (The Secret #1)",
+        "Price": "27.37",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Psychopath Test: A Journey Through the Madness Industry",
+        "Price": "36.00",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Kite Runner",
+        "Price": "41.82",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Girl on the Train",
+        "Price": "55.02",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Emerald Mystery",
+        "Price": "23.15",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+        "Price": "32.00",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Default"
+    },
+    {
+        "Title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "Price": "37.59",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Join",
+        "Price": "35.67",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+        "Price": "43.30",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "The Project",
+        "Price": "10.65",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Soft Apocalypse",
+        "Price": "26.12",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Sleeping Giants (Themis Files #1)",
+        "Price": "48.74",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Arena",
+        "Price": "21.36",
+        "Status": "In stock",
+        "Quantity": "11",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Foundation (Foundation (Publication Order) #1)",
+        "Price": "32.42",
+        "Status": "In stock",
+        "Quantity": "5",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+        "Price": "10.92",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Ready Player One",
+        "Price": "19.07",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "Price": "33.26",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Dune (Dune #1)",
+        "Price": "54.86",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+        "Price": "51.48",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Three Wishes (River of Time: California #1)",
+        "Price": "44.18",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "The Last Girl (The Dominion Trilogy #1)",
+        "Price": "36.26",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "Price": "34.96",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Science Fiction"
+    },
+    {
+        "Title": "The Book of Basketball: The NBA According to The Sports Guy",
+        "Price": "44.84",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sports and Games"
+    },
+    {
+        "Title": "Friday Night Lights: A Town, a Team, and a Dream",
+        "Price": "51.22",
+        "Status": "In stock",
+        "Quantity": "3",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sports and Games"
+    },
+    {
+        "Title": "Sugar Rush (Offensive Line #2)",
+        "Price": "24.42",
+        "Status": "In stock",
+        "Quantity": "2",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sports and Games"
+    },
+    {
+        "Title": "Settling the Score (The Summer Games #1)",
+        "Price": "44.91",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sports and Games"
+    },
+    {
+        "Title": "Icing (Aces Hockey #2)",
+        "Price": "40.44",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Sports and Games"
+    },
+    {
+        "Title": "Unicorn Tracks",
+        "Price": "18.78",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "Price": "25.02",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "Price": "13.34",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Masks and Shadows",
+        "Price": "56.40",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Crown of Midnight (Throne of Glass #2)",
+        "Price": "43.29",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "Price": "28.09",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "Price": "52.37",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Throne of Glass (Throne of Glass #1)",
+        "Price": "35.07",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "The Glittering Court (The Glittering Court #1)",
+        "Price": "44.28",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)",
+        "Price": "42.98",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "The Star-Touched Queen",
+        "Price": "46.02",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "The Hidden Oracle (The Trials of Apollo #1)",
+        "Price": "52.26",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+        "Price": "44.73",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Island of Dragons (Unwanteds #7)",
+        "Price": "29.65",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "Price": "37.51",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "City of Glass (The Mortal Instruments #3)",
+        "Price": "56.02",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Searching for Meaning in Gailana",
+        "Price": "38.73",
+        "Status": "In stock",
+        "Quantity": "13",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "The Star-Touched Queen",
+        "Price": "32.30",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "A Shard of Ice (The Black Symphony Saga #1)",
+        "Price": "56.63",
+        "Status": "In stock",
+        "Quantity": "9",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "King's Folly (The Kinsman Chronicles #1)",
+        "Price": "39.61",
+        "Status": "In stock",
+        "Quantity": "7",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Fantasy"
+    },
+    {
+        "Title": "Without Borders (Wanderlove #1)",
+        "Price": "45.07",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "The Mistake (Off-Campus #2)",
+        "Price": "43.29",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+        "Price": "55.85",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "The Hook Up (Game On #1)",
+        "Price": "36.29",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "Shameless",
+        "Price": "58.35",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "Off Sides (Off #1)",
+        "Price": "39.45",
+        "Status": "In stock",
+        "Quantity": "1",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "New Adult"
+    },
+    {
+        "Title": "The Requiem Red",
+        "Price": "22.65",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Set Me Free",
+        "Price": "17.46",
+        "Status": "In stock",
+        "Quantity": "19",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "Price": "45.22",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Obsidian (Lux #1)",
+        "Price": "14.86",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Burning",
+        "Price": "28.81",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "A Fierce and Subtle Poison",
+        "Price": "28.13",
+        "Status": "In stock",
+        "Quantity": "16",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Scarlett Epstein Hates It Here",
+        "Price": "43.55",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Nightingale, Sing",
+        "Price": "38.28",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)",
+        "Price": "48.56",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Frostbite (Vampire Academy #2)",
+        "Price": "29.99",
+        "Status": "In stock",
+        "Quantity": "15",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Wild Swans",
+        "Price": "14.36",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Until Friday Night (The Field Party #1)",
+        "Price": "46.31",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "This Is Where It Ends",
+        "Price": "27.12",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "The Darkest Lie",
+        "Price": "35.35",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "My Kind of Crazy",
+        "Price": "40.36",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Don't Get Caught",
+        "Price": "55.35",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "One",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Catching Jordan (Hundred Oaks)",
+        "Price": "50.83",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Three",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+        "Price": "58.14",
+        "Status": "In stock",
+        "Quantity": "14",
+        "Rating": "Four",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "The Epidemic (The Program 0.6)",
+        "Price": "14.44",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Five",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    },
+    {
+        "Title": "Stars Above (The Lunar Chronicles #4.5)",
+        "Price": "48.05",
+        "Status": "In stock",
+        "Quantity": "12",
+        "Rating": "Two",
+        "Product Type": "Books",
+        "Number of Reviews": "0",
+        "Category": "Young Adult"
+    }
+]
